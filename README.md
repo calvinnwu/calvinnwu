@@ -6,5 +6,5 @@ and data structures and algorithms. Currently, I am trying to expand my knowledg
 
 **Fun Fact:** I have triple citizenship!!! 🦅 🍁 🧨 
 
-[giphy 1](https://github.com/calvinnwu/calvinnwu/assets/138517775/563fa210-4823-46a9-9a8f-b29b84c4e9e1)
 
+<img alt="GIF" src="https://github.com/calvinnwu/calvinnwu/assets/138517775/563fa210-4823-46a9-9a8f-b29b84c4e9e1" width="400" height="520" />
